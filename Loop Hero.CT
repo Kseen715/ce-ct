@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"HP"</Description>
+      <LastState Value="331" RealAddress="0F1034F0"/>
+      <VariableType>Double</VariableType>
+      <Address>0F1034F0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Defense"</Description>
+      <LastState Value="7" RealAddress="0F1114A0"/>
+      <VariableType>Double</VariableType>
+      <Address>0F1114A0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Max HP"</Description>
+      <LastState Value="485.01" RealAddress="0F1115F0"/>
+      <VariableType>Double</VariableType>
+      <Address>0F1115F0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"HP Daily Regen"</Description>
+      <LastState Value="13" RealAddress="0F1113C0"/>
+      <VariableType>Double</VariableType>
+      <Address>0F1113C0</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
