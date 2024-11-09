@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"CrystalsCount"</Description>
+      <LastState Value="0" RealAddress="07DE4668"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>07DE4668</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"GoingDownWhenSthKilled"</Description>
+      <LastState Value="-1" RealAddress="07DE4618"/>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>07DE4618</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"TargetCount"</Description>
+      <LastState Value="31" RealAddress="07DC4310"/>
+      <ShowAsSigned>1</ShowAsSigned>
+      <VariableType>8 Bytes</VariableType>
+      <Address>07DC4310</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>22</ID>
+      <Description>"Global Gold"</Description>
+      <LastState Value="13020" RealAddress="27F1CE34"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>27F1CE34</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"Points"</Description>
+      <LastState Value="3290" RealAddress="06D1CF54"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>06D1CF54</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"Wizard"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>800080</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>0</ID>
+          <Description>"HP max"</Description>
+          <LastState Value="515" RealAddress="2AB9F470"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>2AB9F470</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"HP current"</Description>
+          <LastState Value="515" RealAddress="2AB9F474"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>2AB9F474</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2</ID>
+          <Description>"XP current"</Description>
+          <LastState Value="234234" RealAddress="2AB9F534"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>2AB9F534</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>"Gold current"</Description>
+          <LastState Value="14" RealAddress="2AB9F554"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>2AB9F554</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5</ID>
+          <Description>"Gold max"</Description>
+          <LastState Value="24" RealAddress="2E284C38"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>2E284C38</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>21</ID>
+          <Description>"Rune of discard"</Description>
+          <LastState Value="99" RealAddress="2E284C58"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>2E284C58</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>20</ID>
+          <Description>"Healing Potions"</Description>
+          <LastState Value="99" RealAddress="2E284C5C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>2E284C5C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>13</ID>
+          <Description>"Char"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>FFFF00</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>9</ID>
+              <Description>"Strength"</Description>
+              <LastState Value="98" RealAddress="2AB9F4D4"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>2AB9F4D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>6</ID>
+              <Description>"Intelligence"</Description>
+              <LastState Value="2453" RealAddress="2AB9F4B4"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>2AB9F4B4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>14</ID>
+              <Description>"Defense"</Description>
+              <LastState Value="104" RealAddress="2AB9F454"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>2Ab9f454</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>12</ID>
+              <Description>"Poison"</Description>
+              <LastState Value="100" RealAddress="2AB9F414"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>2AB9F414</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>15</ID>
+              <Description>"Luck"</Description>
+              <LastState Value="104" RealAddress="2AB9F494"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>2Ab9f494</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>18</ID>
+              <Description>"Spikes"</Description>
+              <LastState Value="98" RealAddress="2AB9F574"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>2AB9F574</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>16</ID>
+              <Description>"Crit"</Description>
+              <LastState Value="104" RealAddress="2AB9F514"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>2Ab9f514</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>29</ID>
+      <Description>"HP current"</Description>
+      <LastState Value="276447231" Activated="1" RealAddress="2BE82954"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>2BE82954</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
